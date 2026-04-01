@@ -1,5 +1,5 @@
 # 🖥️ IJR Soluções em Informática
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D47A1,100:1565C0&section=header&text=IJR%20SOLINFO&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Tech%20Educator%20%7C%20Microsoft%20AI-900%20%7C%20MIEExpert&descAlignY=58&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D47A1,100:1565C0&section=header&text=IJR%20SOLINFO&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Tech%20Educator%20%7C%20"/>
 <div align="center">
   <h3>Soluções Completas em Tecnologia e Segurança Eletrônica</h3>
   <p><strong>Especialista em Infraestrutura de Redes e Segurança da Informação</strong></p>
