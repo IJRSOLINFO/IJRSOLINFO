@@ -1,6 +1,16 @@
 # 🖥️ IJR Soluções em Informática
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D47A1,100:1565C0&section=header&text=IJR%20SOLINFO&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Tech%20Educator%20%7C%20Técnico%20TI%20%7C%20MIEExpert&descAlignY=58&descSize=14"/>
 <div align="center">
+### Olá! Seja bem-vindo ao meu perfil 👋
+
+<div align="center">
+
+> *“Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua produção.”*
+> **— Paulo Freire**
+
+**Entre linhas de código e salas de aula — transformando tecnologia em aprendizado.**
+
+</div>
 
  
   <h3>Soluções Completas em Tecnologia e Segurança Eletrônica</h3>
