@@ -8,7 +8,7 @@
 > *“Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua produção.”*
 > **— Paulo Freire**
 
-**Entre linhas de código e salas de aula — transformando tecnologia em aprendizado.**
+**Através dos Códigos, transformando ideias em Realidade.**
 
 </div>
 
@@ -31,6 +31,8 @@ A **IJR Soluções em Informática** é uma empresa especializada em fornecer so
 - 🔐 **Especialista em Segurança da Informação e Comunicação**
 - 🛡️ **Certificado em Defesa Cibernética**
 - 🔧 **Operador de Rede Qualificado**
+- 🔧 **Manutenção de Microcomputadores e Notebooks**
+- 🔧 **Suporte técnico em Celulares e Tablets**
 - 🐧 **Supervisor de Redes Linux**
 - 💾 **Gerência de Servidores e Serviços**
 - 🗄️ **Gerência de Banco de Dados**
@@ -90,6 +92,6 @@ A **IJR Soluções em Informática** é uma empresa especializada em fornecer so
 
 ### Seu parceiro de confiança em Tecnologia e Segurança! 🛡️💼
 
-**IJR Soluções em Informática** - Conectando Negócios com Tecnologia
+**IJR Soluções em Informática** - Sua Solução está Aqui.
 
 </div>
