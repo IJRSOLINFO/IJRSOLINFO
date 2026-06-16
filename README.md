@@ -21,7 +21,7 @@
 
 ## 📋 Sobre Nós
 
-A **IJR Soluções em Informática** é uma empresa especializada em fornecer soluções integrais em **Tecnologia da Informação** e **Segurança Eletrônica**. Com profissionais altamente qualificados, nos dedicamos a entregar serviços de excelência para atender às necessidades de infraestrutura, segurança e manutenção tecnológica.
+A **IJR Soluções em Informática** é uma empresa especializada em fornecer soluções integrais em **Tecnologia da Informação** e **Segurança Eletrônica**. Com profissionais altamente qualificados, dedicados a entregar serviços de excelência para atender às necessidades de infraestrutura, segurança e manutenção tecnológica.
 
 ---
 
