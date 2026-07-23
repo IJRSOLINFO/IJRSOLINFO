@@ -27,14 +27,15 @@ Cada atendimento é realizado com o compromisso de compreender a real necessidad
 <div align="center">
 Nossa atuação é baseada em quatro princípios que orientam cada decisão:
 
-🤲 Respeito <b>
-🤝 Confiança <b>
-📌 Compromisso <b>
-⭐ Excelência <b>
+🤲 Respeito </b>
+🤝 Confiança </b>
+📌 Compromisso </b>
+⭐ Excelência </b>
 </div>
 Mais do que solucionar problemas técnicos, buscamos construir relacionamentos duradouros, pautados pela honestidade, transparência e pela qualidade em cada serviço prestado.
 
 Porque, para nós, fazer o nosso melhor é a forma que encontramos de respeitar você.
+
 **A nossa missão é resolver.**
 
 ---
