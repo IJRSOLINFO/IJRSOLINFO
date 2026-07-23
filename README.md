@@ -24,14 +24,14 @@
 A **IJR Soluções em Informática** nasceu do propósito de usar a tecnologia para facilitar a vida das pessoas. Mais do que prestar serviços, buscamos construir relações de confiança, oferecendo soluções em **Tecnologia da Informação** e **Segurança Eletrônica** com responsabilidade, transparência e excelência.
 
 Cada atendimento é realizado com o compromisso de compreender a real necessidade do cliente, entregando soluções seguras, eficientes e duradouras. Acreditamos que a tecnologia só faz sentido quando é capaz de resolver problemas, gerar tranquilidade e fortalecer a confiança.
-
+<div align="center">
 Nossa atuação é baseada em quatro princípios que orientam cada decisão:
 
-🤲 Respeito
-🤝 Confiança
-📌 Compromisso
-⭐ Excelência
-
+🤲 Respeito <b>
+🤝 Confiança <b>
+📌 Compromisso <b>
+⭐ Excelência <b>
+</div>
 Mais do que solucionar problemas técnicos, buscamos construir relacionamentos duradouros, pautados pela honestidade, transparência e pela qualidade em cada serviço prestado.
 
 Porque, para nós, fazer o nosso melhor é a forma que encontramos de respeitar você.
