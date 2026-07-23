@@ -36,7 +36,7 @@ Mais do que solucionar problemas técnicos, buscamos construir relacionamentos d
 
 Porque, para nós, fazer o nosso melhor é a forma que encontramos de respeitar você.
 <div align="center">
-**A nossa missão é resolver**
+A nossa missão é resolver
 </div>
 ---
 
